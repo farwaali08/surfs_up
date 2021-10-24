@@ -21,7 +21,19 @@ The analysis was conducted with Python, however, as the weather data provided wa
 
 ## RESULTS & ANALYSIS
 
-
+Below is a statistical review of the temperatures for June and December:
 
 
 ![alt_text](https://github.com/farwaali08/surfs_up/blob/54453a5c6d61e254945b47515b81e504b99fa61a/Temperatures.png)
+
+
+Notes and Key findings:
+
+* The lower count of December observations suggests that there is data missing for some dates
+  * Regardless, the sample size is sufficient to produce insightful results
+  
+* The average temperatures in June and December are approximately 75°F and 71°F, respectively
+  *  
+
+* With respect to standard deviation, December data is slightly more spread out than June, however both are fairly comparable (stdev σ ~ 3)
+  * This suggests that temperatures remain around the calculated average temperature, particularly in the month of June  
