@@ -4,7 +4,6 @@
 
 This analysis aims to assess and identify temperature trends in Oahu, Hawaii, for the months of June and December, over a seven-year period. It was prepared in order to evaluate the sustainability of a year-round surf and ice cream shop business.
 
-The analysis was conducted with Python, however, as the weather data provided was stored in a SQLite database, SQLalchemy was required to facilitate communication between Python and the database. The stastistical component was completed using Pandas.
 
 ## TOOLS & QUICK LINKS
 
@@ -18,6 +17,9 @@ The analysis was conducted with Python, however, as the weather data provided wa
   * Anaconda Navigator 2.0.3
   * Conda 4.10.3   
 * Jupyter Notebook 6.3.0 
+
+The analysis was conducted with Python, however, as the weather data provided was stored in a SQLite database, SQLalchemy was required to facilitate communication between Python and the database. The stastistical component was completed using Pandas.
+
 
 ## RESULTS & ANALYSIS
 
@@ -39,4 +41,7 @@ Notes and Key findings:
   * This suggests that temperatures remain around the calculated average temperature, especially in the month of June
   * This also suggests that temperatures remain fairly consistent year-round 
  
-Based on temperature data alone, the conditions appear to be favourable towards the business, however further analyses that incorporate other climate features, such as windiness or precipitation, is strongly recommended. Oahu has a prominent [rainy season](https://www.hawaii-guide.com/oahu/articles/oahu_weather) that lasts from mid-November through late March, which can impact tourism, and subsequently, sales. It is recommended to conduct a similar analysis on precipitation data to indentify the trends
+Based on temperature data alone, the conditions appear to be favourable for the business, however further analyses that incorporate other climate features, such as windiness or precipitation, are strongly recommended. Oahu has a prominent [rainy season](https://www.hawaii-guide.com/oahu/articles/oahu_weather) that lasts from mid-November through to late March, which can impact tourism, and subsequently, sales. It is recommended to conduct a similar analysis on precipitation data to indentify the trends or seasonality. A similar analysis should be conducted for wind conditions as well.
+
+In addition to that, it is also worthwhile to use weather trends to identify an optimal location for the business. This can be achieved by analyzing each weather station to determine which location generally has more stable weather patterns. 
+
