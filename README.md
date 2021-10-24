@@ -38,5 +38,8 @@ Notes and Key findings:
 * The average temperatures in June and December are approximately 75°F and 71°F, respectively
    * June has a higher average temperature, which is to be expected, however the December value is comparable
 
-* With respect to standard deviation, December data is slightly more spread out than June, however both are fairly comparable (stdev σ ~ 3)
-  * This suggests that temperatures remain around the calculated average temperature, especially in the month of June  
+* With respect to standard deviation, December data is slightly more spread out than June, however both are comparable (stdev σ ~ 3)
+  * This suggests that temperatures remain around the calculated average temperature, especially in the month of June
+  * This also suggests that temperatures remain fairly consistent year-round 
+ 
+Based on temperature data alone, the conditions appear to be favourable towards the business, however further analysis and metrics are [rainy season](https://www.hawaii-guide.com/oahu/articles/oahu_weather)
