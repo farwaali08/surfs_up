@@ -4,7 +4,7 @@
 
 This analysis aims to assess and identify temperature trends in Oahu, Hawaii, for the months of June and December, over a seven-year period. It was prepared in order to evaluate the sustainability of a year-round surf and ice cream shop business.
 
-The weather data provided was stored in a SQLite database, and so SQLalchemy was used to facilitate communication between Python and the database. The stastistical analysis was completed using Pandas.
+The analysis was conducted with Python, however, as the weather data provided was stored in a SQLite database, SQLalchemy was required to facilitate communication between Python and the database. The stastistical component was completed using Pandas.
 
 ## TOOLS & QUICK LINKS
 
