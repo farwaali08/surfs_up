@@ -29,12 +29,20 @@ Below is a statistical review of the temperatures for June and December:
 ![alt_text](https://github.com/farwaali08/surfs_up/blob/54453a5c6d61e254945b47515b81e504b99fa61a/Temperatures.png)
 
 
-Notes and Key findings:
+### Notes and Key Findings
 
+#### Overall Data
 * The lower count of December observations suggests that there is data missing for some dates
   * Regardless, the sample size is sufficient to produce insightful results
+
+#### Temperature Range 
 * June Temperature Range: 64°F - 85°F
+  * 75% of temperatures are 77°F + 
 * December Temperature Range: 56°F - 83°F
+  * 75% of temperatures are 74°F +  
+* The temperatures for both months appear to be fairly warm, overall
+
+#### Average Temperature and Spread of Data
 * The average temperatures in June and December are approximately 75°F and 71°F, respectively
    * June has a higher average temperature, which is to be expected, however the December value is comparable
 * With respect to standard deviation, December data is slightly more spread out than June, however both are comparable (stdev σ ~ 3)
