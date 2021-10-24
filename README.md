@@ -42,4 +42,4 @@ Notes and Key findings:
   * This suggests that temperatures remain around the calculated average temperature, especially in the month of June
   * This also suggests that temperatures remain fairly consistent year-round 
  
-Based on temperature data alone, the conditions appear to be favourable towards the business, however further analysis and metrics are [rainy season](https://www.hawaii-guide.com/oahu/articles/oahu_weather)
+Based on temperature data alone, the conditions appear to be favourable towards the business, however further analyses that incorporate other climate features, such as windiness or precipitation, is strongly recommended. Oahu has a prominent [rainy season](https://www.hawaii-guide.com/oahu/articles/oahu_weather) that lasts from mid-November through late March, which can impact tourism, and subsequently, sales. It is recommended to conduct a similar analysis on precipitation data to indentify the trends
