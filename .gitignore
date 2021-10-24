@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
+flask_commands.png
 
 # C extensions
 *.so
