@@ -48,7 +48,7 @@ Below is a statistical review of the temperatures for June and December:
 * With respect to standard deviation, December data is slightly more spread out than June, however both are comparable (stdev σ ~ 3)
   * This suggests that temperatures remain around the calculated average temperature, especially in the month of June
    * This is further supported by the fact that the "median" or "50%" value is virtually the same as the average temperatures for both
-     * The data is symmetrically distributed without skew   
+     * The data is symmetrically distributed   
   * This also suggests that temperatures remain fairly consistent year-round 
  
 Based on temperature data alone, the conditions appear to be favourable for the business, however further analyses that incorporate other climate features, such as windiness or precipitation, are strongly recommended. Oahu has a prominent [rainy season](https://www.hawaii-guide.com/oahu/articles/oahu_weather) that lasts from mid-November through to late March, which can impact tourism, and subsequently, sales. It is recommended to conduct a similar analysis on precipitation data to indentify the trends or seasonality. A similar analysis should be conducted for wind conditions as well.
