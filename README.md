@@ -16,3 +16,8 @@
 * Jupyter Notebook 6.3.0 
 
 ## RESULTS & ANALYSIS
+
+
+
+
+![alt_text](https://github.com/farwaali08/surfs_up/blob/54453a5c6d61e254945b47515b81e504b99fa61a/Temperatures.png)
