@@ -37,9 +37,9 @@ Below is a statistical review of the temperatures for June and December:
 
 #### Temperature Range 
 * June Temperature Range: 64°F - 85°F
-  * 75% of temperatures are 77°F + 
+  * 75% of observations are 77°F + 
 * December Temperature Range: 56°F - 83°F
-  * 75% of temperatures are 74°F +  
+  * 75% of observations are 74°F +  
 * The temperatures for both months appear to be fairly warm, overall
 
 #### Average Temperature and Spread of Data
